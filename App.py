@@ -80,7 +80,7 @@ h1, h2, h3 { font-family: 'Trebuchet MS', sans-serif; }
 st.markdown(CUSTOM_CSS, unsafe_allow_html=True)
 
 OPENROUTER_URL = "https://openrouter.ai/api/v1/chat/completions"
-FREE_MODEL = "x-ai/grok-4-fast:free"
+FREE_MODEL = "x-ai/grok-4.3:free"
 
 # --------------------------------------------------------------------------
 # Sidebar — API key (BYOK) + generation settings
