@@ -114,7 +114,4 @@ styling lives in the `CUSTOM_CSS` block near the top of `app.py`.
 
 ---
 
-## License
 
-Add a license of your choice (for example MIT) via **Add file → Create new
-file → LICENSE** on GitHub.
