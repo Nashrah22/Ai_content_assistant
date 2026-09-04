@@ -7,7 +7,7 @@ structured brief: content type, topic, audience, platform, tone, and
 language. It calls a free Groq-hosted LLM to generate one or more caption
 variations, each with matching hashtags, ready to copy or download.
 
-**Live demo:** [your-app-name.streamlit.app](https://aicontentassistant-gkyeydzqmxjfzuzp5k4s6x.streamlit.app/) 
+**Live demo:**(https://aicontentassistant-gkyeydzqmxjfzuzp5k4s6x.streamlit.app/) 
 
 ---
 
